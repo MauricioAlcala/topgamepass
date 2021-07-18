@@ -1,0 +1,3 @@
+[17-Jul-2021 21:48:24 America/Mexico_City] PHP Warning:  require(../assets/vendor/PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home4/privado1/topgamepass.com/forms/enviarcorreo.php on line 3
+[17-Jul-2021 21:48:24 America/Mexico_City] PHP Warning:  require(../assets/vendor/PHPMailer/src/PHPMailer.php): failed to open stream: No such file or directory in /home4/privado1/topgamepass.com/forms/enviarcorreo.php on line 3
+[17-Jul-2021 21:48:24 America/Mexico_City] PHP Fatal error:  require(): Failed opening required '../assets/vendor/PHPMailer/src/PHPMailer.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home4/privado1/topgamepass.com/forms/enviarcorreo.php on line 3
